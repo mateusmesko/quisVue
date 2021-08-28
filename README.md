@@ -1,4 +1,4 @@
-# super-quiz
+# super-quiz-vue
 
 ## Project setup
 ```
